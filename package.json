@@ -1,0 +1,31 @@
+{
+  "name": "major-2",
+  "version": "1.0.0",
+  "description": "mern blood bank app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix ./client",
+    "major-2": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "sachin singh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bcryptjs": "^3.0.2",
+    "colors": "^1.4.0",
+    "concurrently": "^9.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "major": "^0.0.0",
+    "moment": "^2.30.1",
+    "mongodb": "^6.13.0",
+    "mongoose": "^8.10.1",
+    "monodb": "^1.5.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9"
+  }
+}
