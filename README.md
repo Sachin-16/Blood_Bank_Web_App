@@ -80,3 +80,8 @@ Admin Panel
 JWT for authentication
 
 Role-based access control (Admin, Donor, Hospital, Organization)
+
+Reference: Techinfo
+
+Contact us: If you have any questions or concerns regarding this Blodd Bank Web App, please contact us at 211b261@juetguna.in, 211b157@juetguna.in & 211b152@juetguna.in We are happy to help and appreciate your feedback.
+
